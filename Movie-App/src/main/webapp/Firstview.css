@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/25badb14-858b-4b1c-8b7d-2244098454d9/538e2c55-738c-4e62-8152-490342e18a86/SG-en-20220606-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+}
+.logo{
+	padding: 10px;
+	font-size: 50px;
+	color: white;
+}
+.intro{
+	color: white;
+}
+a{
+	text-decoration: none;
+}
